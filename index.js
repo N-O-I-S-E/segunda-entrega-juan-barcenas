@@ -157,7 +157,7 @@ function menuInicio() {
     
     }
    
-    const mercaditoCompra =  menuInicio();
+    const Compra =  menuInicio();
 
     const inventarioDeCriptomonedas = ['bitcoin','etereum','Tether']
     inventarioDeCriptomonedas.push('USD Coin');
